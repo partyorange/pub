@@ -1,4 +1,4 @@
-# 🍊 Party Orange Primer 🍊
+# ✴️🍊Party Orange Primer
 
 ## What Is Party Orange?
 
