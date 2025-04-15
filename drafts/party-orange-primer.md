@@ -24,7 +24,7 @@ Today's political climate urgently demands a space free from manipulation, disto
 ## Our Core Principles
 
 ### Citizenry at the Core
-- **No Billionaires.** No stock to own. Only for us.
+- **No "Billions".** No stockholders harvesting wealth. Only for Americans.
 - **No Candidates.** Platformed by the people. Only our stances.
 - **No Algorithm.** We never harvest attention, hate bots, and push no agenda.
 - **No Ads.** Membership is our fuel and only incentive.
