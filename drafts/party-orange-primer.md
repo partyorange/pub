@@ -2,7 +2,7 @@
 
 ## What Is Party Orange?
 
-Party Orange is not a political party. We're a secure, member-owned civic platform built to clearly manifest the collective will of the American people—free from billionaire influence, candidate manipulation, or algorithmic distortion. We provide infrastructure for every American to declare precisely where they stand on the issues that matter, creating an undeniable, durable record of our shared civic values.
+Party Orange is not a political party. We're a secure, member-owned civic platform built to clearly manifest the collective will of the American people. Free from commercial or incumbent influence and un-hooked from _The Algorithm_ here is where we form collective power from our individual voices. Party Orange provides infrastructure for every American to declare precisely where they stand on the issues that matter, creating an undeniable, durable record of our shared civic values while deeply commiting to privacy and security.
 
 Think of Party Orange as:
 - The connective tissue of a healthy citizenry
