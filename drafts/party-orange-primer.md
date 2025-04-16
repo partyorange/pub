@@ -30,7 +30,7 @@ Today's political climate urgently demands a space free from manipulation, disto
 - **No Ads.** Membership is our fuel and only incentive.
 
 
-### Privacy and Control
+### Anonymity by Default & a Private Locker
 Members control how public or private stances are:
 - Visibility defaults for different dispositions
 - Adjust visibility for specific question sets
