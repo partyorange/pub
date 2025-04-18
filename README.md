@@ -1,3 +1,7 @@
-# Public documents for Party Orange
-We're in early days folks, so please don't be a stranger... 
+# ✴️🍊 Party Orange
+Some public documents for Party Orange
 
+### Some DRAFTS in progress...
+* [Party Orange Primer](https://github.com/partyorange/pub/blob/principles01/drafts/party-orange-primer.md)
+* [Founding Principles draft](https://github.com/partyorange/pub/blob/main/drafts/party-orange-founding-principles.md)
+ 
