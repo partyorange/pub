@@ -18,7 +18,7 @@ The early members agreed in 2025 on the following 10 things and hope those who a
 3. **Expressing honest social opinions shouldn't be risky, but it is.** \
    To properly express the will of the people, we must protect individual anonymity while enabling collective amplification and coalition building. Protecting individuals' ability to express opinions without fear of reprisal is fundamental to manifesting genuine collective will. Party Orange operates with member data as if its a precious personal asset, because it is.
 
-4. **A return to healthy partisanship requires new ways to find common ground** \
+4. **A return to healthy partisanship requires new ways to find common ground.** \
    Red vs. Blue won't get us to a reasonable level of disagreement until there's some way to build the set of shared values that undergird a strong nation. America is a nation built on values, not identities, yet its our identities used against us time and time again by those in power. Party Orange aims to build a new durable infrastructure to give us all a better sense of our commonality, so we can coexist and thrive.
 
 5. **Nobody is coming to save us but us.** \
