@@ -1,7 +1,5 @@
-# ✴️🍊 Party Orange
-Some public documents for Party Orange
-
-
+# ✴️🍊 👷‍♀️👷🏿‍♀️👷🏾‍♀️👷🏽‍♀️👷🏼‍♀️👷🏻‍♀️👷👷🏻👷🏼👷🏽👷🏾👷🏿👷‍♂️👷🏽‍♂️👷🏻‍♂️👷🏾‍♂️👷🏿‍♂️👷🏼‍♂️
+A new coalition defending the consent of the governed.
 
 ### DRAFTS in progress...
 * [Party Orange Primer](./party-orange-primer.md)
