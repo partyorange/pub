@@ -5,52 +5,65 @@
 
 ## What This Is
 
-This is not a pitch.  
 This is the operating plan for Party Orange—  
-a member-powered civic platform that builds what this country is missing:  
-a durable, visible, and uncorrupted record of what the American people actually believe.
+a member-powered civic platform that builds what our country is missing:  
+a durable, visible, and uncorrupted record of what We, the People actually believe.
 
-We aren’t trying to “scale.”  
-We are trying to outlast.
+We’re not here to “scale.”  
+We’re here to outlast.
 
 ---
 
-## What Happens If We Don’t
+## Why We’re Doing This
 
-If we don’t build Party Orange, here’s what happens:
+Because if we don’t, here’s what happens:
 
-- **Public opinion remains a black box**—harvested by pollsters, twisted by pundits, buried by consultants.
-- **Discourse remains hostage**—polarized by parties, gamed by billionaires, flattened by algorithms.
-- **Civic identity remains manipulable**—sorted by ad segments, not beliefs.
+- **Our opinion stays a black box**—harvested by pollsters, buried by consultants.  
+- **Our discourse stays rigged**—polarized by parties, gamed by billionaires.  
+- **Our civic identity stays manipulable**—reduced to ad segments and vibes.
 
-We have no shared record of where we really stand.  
-We have no secure way to say: *this is who we are.*
+There is no shared record of where we actually stand.  
+No structure for finding who stands with us.  
+No platform that counts us without using us.
 
 Until now.
 
 ---
 
-## Why This Has to Be Member-Funded
+## What Makes This Different
 
-We are not member-funded because it feels righteous.  
-We are member-funded because no other funding model makes us safe.
+- **Not polling.** We build a durable, member-controlled stance record.  
+- **Not social media.** Our architecture favors privacy, clarity, and truth—not clicks.  
+- **Not partisan.** Power flows from consensus, not candidates.  
 
-- **Venture money** requires growth at all costs. That leads to engagement tricks, surveillance, and saleable data.
-- **Institutional philanthropy** introduces compliance risk, dependency, and softened edges.
-- **Political donors** inevitably pull toward candidate capture and ideological distortion.
-
-Party Orange is designed to be accountable only to the people who use it.  
-That is not a moral stance.  
-That is an *institutional strategy for mission fidelity*.
+This isn’t another forum, feed, or fundraising tool.  
+This is infrastructure for the next civic era—built to resist corruption and endure beyond election cycles.
 
 ---
 
-## How We Get There
+## Why We Must Be Member-Funded
 
-To sustain the platform, we need:
-- **~100,000 active members** on a sliding-scale dues model.
-- A mix of $3, $10, and $30/month contributors.
-- No paywalls. Just mutual commitment.
+This isn’t about moral purity.  
+It’s about architectural survival.
+
+- **Venture capital** demands growth, not dignity.  
+- **Institutional philanthropy** bends strategy toward grant cycles.  
+- **Political donors** always pull toward candidate capture.
+
+When we’re funded by members, our incentives stay clean.  
+Our features serve people, not markets.  
+Our growth follows trust—not virality.
+
+**No ads. No investors. No hidden agenda.**  
+Just members, funding what they own.
+
+---
+
+## How Sustainability Works
+
+Our goal: ~100,000 active, dues-paying members.  
+Sliding-scale model: $3, $10, or $30+/month.  
+No paywalls. No tiered access. Everyone counts.
 
 | Members   | Monthly Revenue (est.) | Annual Run Rate | Outcome             |
 |-----------|------------------------|------------------|---------------------|
@@ -58,77 +71,96 @@ To sustain the platform, we need:
 | 100,000   | ~$300K                 | ~$3.6M           | Full sustainability |
 | 1,000,000 | ~$2.5M                 | ~$30M            | Margin + endowment  |
 
+The math works. The mission demands it.  
 Because no one else will build this for us.
 
 ---
 
-## What We Will Build
+## What Members Get—From Day One
+
+- **Your Orange Card** – A clear, controlled visual of your civic stance  
+- **Coalition Insights** – Discover surprising alignment with others  
+- **The WeMeter** – See where *we* stand in real time  
+- **Weekly Digest** – A signal through the noise  
+- **Founding Member Recognition** – Part of the DNA, not just the timeline  
+- **Direct Input** – Prioritize features and issues as we build together
+
+We’re not selling a future benefit.  
+You join. You get value. Right now.
+
+---
+
+## What We’re Building
 
 ### The Platform
-- Identity + privacy engine
-- Stance-taking and visibility control
-- Question set authoring + democratic assessment
-- Aggregation engine (WeMeter)
-- Coalition infrastructure
+- Identity and privacy architecture  
+- Stance-taking engine with per-question visibility  
+- Democratic question set creation and review  
+- Coalition tools for organizations and campaigns  
+- Aggregate stance visualizations (WeMeter)
+
+### The Civic Record
+- A structured, anonymized, living record of American public will  
+- Immutable data for research, organizing, and representation  
+- A civic mirror that can’t be spun or sold
 
 ### The Social Contract
-- Member-owned civic commons
-- No ads. No data sales. No algorithmic distortion.
-- Built to be legible, forkable, and transparent
-
-### The Record
-- The only permanent, structured, anonymized expression of American civic will
-- Publicly visible consensus and disagreement, by region and issue
-- A civic mirror that can’t be manipulated by elections or elites
+- Transparent governance  
+- Forkable by design  
+- No surveillance, no ad targeting, no algorithmic distortion
 
 ---
 
-## What We’re Doing Now (Year 1)
+## Roadmap to Durable Independence
 
-- Onboarding, identity linking, stance privacy tools
-- First set of values-based and issue-specific questions
-- WeMeter v1 (consensus heatmap)
-- Manual coalition pilots + impact reports
-- 10,000 founding members
-- Weekly digest to reinforce civic signal
+### Year 1: Build the Core
+- Onboarding, identity linking, and privacy controls  
+- First national question sets and stance profiles  
+- Weekly digest and WeMeter v1  
+- 10,000 founding members  
+- Coalition pilots and manual impact reporting
 
----
-
-## What Comes Next (Year 2)
-
-- Member-created question sets + public review
-- Coalition tools (verified org accounts, embeddable stances)
-- Mobile-ready experience
-- Regional stance overlays
-- Progressive verification + trust scores
+### Year 2: Grow the Network
+- Member-authored question sets + public review  
+- Coalition dashboards + verified org accounts  
+- Progressive verification and reputation systems  
+- Mobile-ready interface  
 - 100,000 sustaining members
 
----
-
-## What We’re Building Toward (Year 3+)
-
-- Scalable public civic data commons
-- Anonymous civic deliberation spaces
-- Verified stance record integration into policy + organizing tools
-- Cross-issue coalition discovery via shared values
-- Financial self-reliance through members alone
-- Structural endowment to preserve long-term independence
-
-Because no one else will build this for us.
+### Year 3+: Operate in the Open
+- Fully self-funded operations  
+- Regional stance overlays and advanced data visualizations  
+- Anonymized civic deliberation zones  
+- Verified API access for media, researchers, and aligned civic orgs  
+- Endowment formation for long-term structural independence
 
 ---
 
-## What We're Asking
+## Built for All of Us
 
-We are not asking for donations.  
-We are asking you to help build something that belongs to all of us.
+Party Orange holds space for a wide range of civic identities and political perspectives.
 
-- Join at a dues level that fits your life.  
-- Share with others who are looking for a way to speak clearly without being used.  
-- Fund the runway if you can. But know we’re already walking.
+We don’t aim for neutrality—we aim for accuracy.  
+We don’t force consensus—we surface it.  
+We don’t collapse disagreement—we map it.
 
-This is not a product. It is not a campaign.  
-It is a civic infrastructure project built to survive whatever comes next.
+Whether you identify as progressive, conservative, libertarian, disillusioned, or politically homeless—this is infrastructure that sees you, counts you, and protects your voice.
+
+---
+
+## What We’re Asking
+
+We don’t need a donation.  
+We need your stance.
+
+- **Join** at a level that works for you  
+- **Share** with others who want to speak without being manipulated  
+- **Back the runway** if you can—but know we’re walking either way
+
+This is not a startup. Not a campaign.  
+This is infrastructure.
+
+And we’re building it together.
 
 [https://partyorange.us](https://partyorange.us)
 
