@@ -7,10 +7,10 @@
 
 This is the operating plan for Party Orange—  
 a member-powered civic platform that builds what our country is missing:  
-a durable, visible, and uncorrupted record of what We, the People actually believe.
+a durable, visible, and uncorrupted record of the will of We, the People.
 
-We’re not here to “scale.”  
-We’re here to outlast.
+We’re not here to sell anyone anything.
+We’re here as citizens to have control over our voice and safe pathways to caoaltions based on shared values. 
 
 ---
 
@@ -19,8 +19,8 @@ We’re here to outlast.
 Because if we don’t, here’s what happens:
 
 - **Our opinion stays a black box**—harvested by pollsters, buried by consultants.  
-- **Our discourse stays rigged**—polarized by parties, gamed by billionaires.  
-- **Our civic identity stays manipulable**—reduced to ad segments and vibes.
+- **Our discourse stays rigid and rigged**—the same Red vs Blue punditry, gamed by billionaires.  
+- **Our civic identity stays manipulable**—reduced to the marketing slogans of Red vs Blue.
 
 There is no shared record of where we actually stand.  
 No structure for finding who stands with us.  
@@ -32,11 +32,11 @@ Until now.
 
 ## What Makes This Different
 
-- **Not polling.** We build a durable, member-controlled stance record.  
+- **Not polling.** We build a durable, member-controlled, privacy-first stance record.  
 - **Not social media.** Our architecture favors privacy, clarity, and truth—not clicks.  
-- **Not partisan.** Power flows from consensus, not candidates.  
-
-This isn’t another forum, feed, or fundraising tool.  
+- **Not partisan.** Power flows from consensus and consent, not candidates and campaigns.  
+ 
+This isn’t another forum, feed, or fundraising tool, though we plan to either build or enable all such applications. 
 This is infrastructure for the next civic era—built to resist corruption and endure beyond election cycles.
 
 ---
@@ -46,33 +46,32 @@ This is infrastructure for the next civic era—built to resist corruption and e
 This isn’t about moral purity.  
 It’s about architectural survival.
 
-- **Venture capital** demands growth, not dignity.  
+- **Venture capital** must extract outsized equity value to work.
 - **Institutional philanthropy** bends strategy toward grant cycles.  
-- **Political donors** always pull toward candidate capture.
+- **Political fundraisers** always pull toward candidate capture.
 
-When we’re funded by members, our incentives stay clean.  
+When we’re funded by members, our incentives stay 100% aligned with the citizens who join. 
+More importantly, it allows us to make durable promises about privacy, data ownership, and other forms of future-proofing the trust so essential for our mission to succeed. 
 Our features serve people, not markets.  
 Our growth follows trust—not virality.
 
-**No ads. No investors. No hidden agenda.**  
+**No ads. No investors. No hidden machinations.**  
 Just members, funding what they own.
 
 ---
 
 ## How Sustainability Works
 
-Our goal: ~100,000 active, dues-paying members.  
-Sliding-scale model: $3, $10, or $30+/month.  
+Our first major goal: ~100,000 active, dues-paying members.  
+Sliding-scale model: means average could be below $10 per and means average dues per member will fall..  
 No paywalls. No tiered access. Everyone counts.
 
-| Members   | Monthly Revenue (est.) | Annual Run Rate | Outcome             |
-|-----------|------------------------|------------------|---------------------|
-| 10,000    | ~$40K                  | ~$500K           | Seed operations     |
-| 100,000   | ~$300K                 | ~$3.6M           | Full sustainability |
-| 1,000,000 | ~$2.5M                 | ~$30M            | Margin + endowment  |
+| Members   | Annual Run Rate | Outcome             |
+|-----------|-----------------|---------------------|
+| 10,000    | ~$125K          | Demonstrable viability     |
+| 100,000   | ~$1M            | Baseline sustainability |
+| 1,000,000 | ~$7M            | Margin + endowment  |
 
-The math works. The mission demands it.  
-Because no one else will build this for us.
 
 ---
 
@@ -84,9 +83,6 @@ Because no one else will build this for us.
 - **Weekly Digest** – A signal through the noise  
 - **Founding Member Recognition** – Part of the DNA, not just the timeline  
 - **Direct Input** – Prioritize features and issues as we build together
-
-We’re not selling a future benefit.  
-You join. You get value. Right now.
 
 ---
 
@@ -105,7 +101,7 @@ You join. You get value. Right now.
 - A civic mirror that can’t be spun or sold
 
 ### The Social Contract
-- Transparent governance  
+- Transparent governance - show open profiles for all elected officials and candidates
 - Forkable by design  
 - No surveillance, no ad targeting, no algorithmic distortion
 
