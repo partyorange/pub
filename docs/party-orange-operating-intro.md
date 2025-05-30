@@ -1,3 +1,4 @@
+# UNDER REVIEW AND OPEN FOR COMMENT - NOT YET BINDING
 # Party Orange Operating Plan  
 *We are building the civic infrastructure no one else will.*
 
